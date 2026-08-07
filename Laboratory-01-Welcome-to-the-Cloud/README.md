@@ -36,3 +36,6 @@ mkdir
 cd
 nano
 cat
+
+## Skills Learned
+Through this laboratory activity, I learned how to access a cloud-based Linux environment, use basic Linux commands, organize files and directories, and document technical activities using Markdown and GitHub.

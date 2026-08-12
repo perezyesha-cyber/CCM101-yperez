@@ -6,7 +6,7 @@
 
 **Course:** Bachelor of Science in Information Technology (BSIT)
 
-**Year Level:** 3rd Year
+**Year Level:** 4th Year
 
 **School:** University of Eastern Pangasinan
 

@@ -42,11 +42,3 @@ The following table shows equivalent or comparable services offered by AWS, Micr
 | Identity Management | AWS IAM    | Microsoft Entra ID             | Cloud Identity / IAM           |
 | SQL Database        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
 | Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
-
-### Service Descriptions
-
-* **Virtual Machine:** These services provide virtual computing resources for running applications and workloads.
-* **Object Storage:** These services are used to store and retrieve files and other unstructured data.
-* **Identity Management:** These services help manage users, identities, authentication, and access permissions.
-* **SQL Database:** These services provide managed relational database capabilities.
-* **Kubernetes:** These services provide managed Kubernetes environments for deploying and managing containerized applications.

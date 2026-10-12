@@ -1,3 +1,11 @@
-**1. Cloud Storage Comparison TableStorage TypeDescription (How does it store data?)Primary Use Case (What is it best used for?)Cloud Provider ExampleBlock StorageStores data in raw, fixed-size blocks, each with its own address, formatted with a file system by the operating system.   High-performance databases, virtual machine boot volumes, and transactional workloads.   AWS EBS   File StorageStores data in a hierarchical structure of files and folders organized within shared network directories (NAS).   Collaborative file sharing, home directories, and web content management systems.   AWS EFS   Object StorageStores data as self-contained objects consisting of the data, metadata, and a unique identifier within a flat address space.   Storing massive amounts of unstructured data like backups, media archives, and user-uploaded images.   AWS S3 
-**2. Explanation to the Client
+# Storage Types Research
+
+| Storage Type | Description (How does it store data?) | Primary Use Case (What is it best used for?) | Cloud Provider Example |
+| :--- | :--- | :--- | :--- |
+| **Block Storage** | Stores data in raw, fixed-size blocks, each with its own address, formatted with a file system by the operating system. | High-performance databases, virtual machine boot volumes, and transactional workloads. | AWS EBS |
+| **File Storage** | Stores data in a hierarchical structure of files and folders organized within shared network directories (NAS). | Collaborative file sharing, home directories, and web content management systems. | AWS EFS |
+| **Object Storage** | Stores data as self-contained objects consisting of the data, metadata, and a unique identifier within a flat address space. | Storing massive amounts of unstructured data like backups, media archives, and user-uploaded images. | AWS S3 |
+
+## Client Recommendation
+
 Object storage is the ideal solution for your photo-sharing application because it is infinitely scalable, highly durable, and cost-effective for handling large volumes of unstructured data like images. Unlike block or file storage, it eliminates the performance bottlenecks of rigid hierarchical directory structures, allowing you to store and retrieve millions of user uploads seamlessly.

@@ -1,11 +1,13 @@
-# Storage Types Research
+# Research: Types of Cloud Storage
 
-| Storage Type | Description (How does it store data?) | Primary Use Case (What is it best used for?) | Cloud Provider Example |
-| :--- | :--- | :--- | :--- |
-| **Block Storage** | Stores data in raw, fixed-size blocks, each with its own address, formatted with a file system by the operating system. | High-performance databases, virtual machine boot volumes, and transactional workloads. | AWS EBS |
-| **File Storage** | Stores data in a hierarchical structure of files and folders organized within shared network directories (NAS). | Collaborative file sharing, home directories, and web content management systems. | AWS EFS |
-| **Object Storage** | Stores data as self-contained objects consisting of the data, metadata, and a unique identifier within a flat address space. | Storing massive amounts of unstructured data like backups, media archives, and user-uploaded images. | AWS S3 |
+## Comparison of Cloud Storage Types
 
-## Client Recommendation
+| Storage Type | Description | Primary Use Case | Cloud Provider Example |
+|---|---|---|---|
+| Block Storage | Stores data in fixed-size blocks that can be accessed separately. | Operating systems, virtual machine disks, and databases. | AWS EBS |
+| File Storage | Stores data in files organized into folders and directories. | Shared files, documents, and team folders. | AWS EFS |
+| Object Storage | Stores data as objects with unique identifiers and metadata in a flat structure. | Photos, videos, backups, and other unstructured data. | AWS S3 |
 
-Object storage is the ideal solution for your photo-sharing application because it is infinitely scalable, highly durable, and cost-effective for handling large volumes of unstructured data like images. Unlike block or file storage, it eliminates the performance bottlenecks of rigid hierarchical directory structures, allowing you to store and retrieve millions of user uploads seamlessly.
+## Why Object Storage Is Best for User-Uploaded Images
+
+Object Storage is the best choice for the client's photo-sharing application because it can store large amounts of images and other unstructured data. It can also scale as more users upload photos. Since the images are stored separately from the web server container, they can remain available even when the application container is restarted or replaced.

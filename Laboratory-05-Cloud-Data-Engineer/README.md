@@ -2,7 +2,7 @@
 
 ## Mission Overview
 
-This laboratory activity focuses on cloud object storage using MinIO and Docker.
+This laboratory activity focuses on cloud object storage using MinIO and Docker. It helps me understand how to deploy a storage server, create a bucket, and upload files using the MinIO Web Console.
 
 ## Objectives
 
@@ -16,12 +16,14 @@ This laboratory activity focuses on cloud object storage using MinIO and Docker.
 - GitHub
 - KillerCoda Playground
 - Docker
-- MinIO
+- MinIO Web Console
+- Linux Terminal
 - Web Browser
 
 ## Skills Learned
 
-- Understanding cloud storage types
-- Deploying a containerized storage server
-- Creating buckets and uploading files
-- Writing technical documentation using Markdown
+- Understanding the different types of cloud storage.
+- Deploying a containerized storage server.
+- Using Docker commands to manage containers.
+- Creating buckets and uploading files.
+- Writing technical documentation using Markdown.

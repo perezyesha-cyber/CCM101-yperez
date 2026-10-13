@@ -1,1 +1,9 @@
+# Mission Reflection
 
+In this laboratory activity, I learned about object storage and how to use Docker to deploy a MinIO storage server. I learned that object storage is useful for storing millions of photos because it can handle many files and organize them using unique identifiers and metadata. Compared to traditional block storage, object storage is more suitable for managing a large number of photos, videos, and other files.
+
+Using Docker made it easier for me to deploy MinIO because I only needed to use commands to run the server and configure its settings. I did not have to install everything manually. I also learned how to set the username and password, configure the ports, and use a volume to store data. Even though I encountered some errors during the deployment, I tried to solve them and learned that troubleshooting is part of working with technology.
+
+I also learned that a bucket is like a container where files are stored and organized in object storage. In this activity, I created a bucket named `client-photos` and uploaded a sample file. For large companies, they can protect their data by keeping backup copies and storing data on different servers or locations. This helps them recover their files if a physical server crashes or gets damaged.
+
+Lastly, I can say that my confidence in using the Linux command line is improving. At first, I was not very familiar with some commands, and I encountered errors that I did not immediately understand. However, by following the steps and checking the commands, I learned how to manage Docker containers and check if the server was running. I still need more practice, but I am slowly becoming more confident in using the terminal. Overall, this activity helped me gain new knowledge about cloud storage, Docker, and Linux, which I can use in future activities and projects.

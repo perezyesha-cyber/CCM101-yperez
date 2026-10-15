@@ -34,8 +34,5 @@ docker-compose down
 - Documenting cloud deployment activities using Markdown.
 - Understanding Infrastructure as Code (IaC).
 
-## Screenshots
-
-The screenshots folder contains evidence of the deployment, Nextcloud web interface, and container teardown.
 
 

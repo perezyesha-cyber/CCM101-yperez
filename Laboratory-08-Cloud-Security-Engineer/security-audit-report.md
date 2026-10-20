@@ -25,6 +25,7 @@ The attack surface refers to all the points where an attacker might try to acces
 
 A Default Deny policy means blocking incoming network traffic unless it is specifically allowed by a firewall rule. It is safer because only required connections are permitted, reducing the chance of unauthorized access. Instead of trying to block every possible attacker, the administrator allows only the traffic that the server needs.
 
+---
 
 <p align="center">
   <b>CCM101 · CLOUD COMPUTING</b><br/>

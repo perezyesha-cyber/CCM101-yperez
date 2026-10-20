@@ -45,5 +45,7 @@ If I ran `sudo ufw enable` before `sudo ufw allow ssh`, incoming SSH connections
 
 ---
 
-**CCM101 · CLOUD COMPUTING**  
-Laboratory 08 — The Cloud Security Engineer
+<p align="center">
+  <b>CCM101 · CLOUD COMPUTING</b><br/>
+  <sub>Laboratory 08 — The Cloud Security Engineer</sub>
+</p>

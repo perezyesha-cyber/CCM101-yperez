@@ -1,5 +1,4 @@
 # 🛡️ MISSION REFLECTION
----
 
 In this laboratory activity, I learned the importance of securing a server using a firewall. A host-based firewall helps protect a server by controlling incoming and outgoing network traffic. Even if someone gets past the network security, the firewall can still block connections that are not allowed. This gives the server an additional layer of protection against possible attacks.
 
@@ -13,5 +12,7 @@ Having eight completed missions in my GitHub portfolio makes me feel that I have
 
 ---
 
-**CCM101 · CLOUD COMPUTING**  
-Laboratory 08 — The Cloud Security Engineer
+<p align="center">
+  <b>CCM101 · CLOUD COMPUTING</b><br/>
+  <sub>Laboratory 08 — The Cloud Security Engineer</sub>
+</p>

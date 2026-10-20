@@ -1,7 +1,7 @@
 # 🛡️ SECURITY AUDIT REPORT
 
 <p align="center">
----
+
 
 ## 01 · 👤 PRINCIPLE OF LEAST PRIVILEGE (PoLP)
 

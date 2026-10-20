@@ -1,16 +1,6 @@
 # 🛡️ SECURITY AUDIT REPORT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCM101-Cloud%20Computing-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="CCM101 Cloud Computing" />
-  <img src="https://img.shields.io/badge/LAB%2008-Cloud%20Security-0F766E?style=for-the-badge&logo=linux&logoColor=white" alt="Laboratory 08 Cloud Security" />
-</p>
-
----
-
-## 🔐 MISSION OVERVIEW
-
-This security audit report explains three important concepts used to protect cloud servers: the Principle of Least Privilege, Attack Surface, and Default Deny Policy. These concepts help administrators reduce security risks and protect systems from unauthorized access.
-
 ---
 
 ## 01 · 👤 PRINCIPLE OF LEAST PRIVILEGE (PoLP)

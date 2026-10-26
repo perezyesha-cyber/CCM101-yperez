@@ -54,3 +54,9 @@ The final part, `/root/backup.sh`, is the absolute path to the script that Cron 
 The script was tested in the KillerCoda Ubuntu terminal. It successfully created the `backups` directory and generated the file `backup_20261026_125913.tar.gz`.
 
 The Cron configuration was verified using `crontab -l`, which displayed the scheduled command.
+
+---
+<p align="center">
+  <b>CCM101 · CLOUD COMPUTING</b><br/>
+  <sub>Laboratory 09 – Cloud Automation Engineer</sub>
+</p>

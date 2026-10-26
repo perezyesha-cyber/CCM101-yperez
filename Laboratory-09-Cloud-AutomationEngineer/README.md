@@ -1,8 +1,5 @@
 # ⚙️ Laboratory 09 – Cloud Automation Engineer
 
-**CCM101 – Cloud Computing**  
-*College of Information Technology*
-
 ---
 
 ## 🚀 Mission Overview
@@ -51,5 +48,3 @@ This laboratory activity focuses on automating cloud operations using Bash scrip
 
 ---
 
-**Course:** CCM101 – Cloud Computing  
-**Mission:** The Cloud Automation Engineer

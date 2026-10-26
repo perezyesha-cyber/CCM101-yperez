@@ -46,3 +46,7 @@ This laboratory activity focuses on automating cloud operations using Bash scrip
 
 ---
 
+<p align="center">
+  <b>CCM101 · CLOUD COMPUTING</b><br/>
+  <sub>Laboratory 08 — The Cloud Security Engineer</sub>
+</p>

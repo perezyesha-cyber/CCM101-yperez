@@ -11,3 +11,7 @@ From Laboratory 1 to Laboratory 9, I learned many things about Cloud Computing. 
 Among the cloud roles, I enjoyed being a Cloud Security Engineer the most because I learned how to protect systems and control access. I realized that security is very important when managing cloud environments. Overall, this course helped me improve my technical skills and learn new things that I can use in my future IT career.
 
 ---
+<p align="center">
+  <b>CCM101 · CLOUD COMPUTING</b><br/>
+  <sub>Laboratory 09 – Cloud Automation Engineer</sub>
+</p>

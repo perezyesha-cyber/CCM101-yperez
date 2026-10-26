@@ -1,7 +1,5 @@
 # ⚙️ Laboratory 09 – Cloud Automation Engineer
 
----
-
 ## 🚀 Mission Overview
 
 This laboratory activity focuses on automating cloud operations using Bash scripting and Cron scheduling. I created a backup script that compresses application data into a `.tar.gz` file and configured a Cron job to schedule the backup every day at 2:00 AM.

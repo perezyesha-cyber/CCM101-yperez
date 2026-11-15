@@ -180,8 +180,3 @@ Through this activity, I applied my knowledge of Linux administration, virtualiz
 
 I also learned that a cloud infrastructure requires proper planning, security testing, backup verification, and regular maintenance.
 
-## 12. Conclusion
-
-Laboratory Activity 10 allowed me to combine different cloud computing technologies into one infrastructure project. By designing a multi-service environment and preparing its configuration and documentation, I gained a better understanding of how applications, databases, networks, and automation work together.
-
-This project also taught me that building a cloud environment involves more than making applications run. Security, data protection, automation, and documentation are important parts of maintaining a reliable system.
